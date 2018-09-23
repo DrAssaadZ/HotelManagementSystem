@@ -1,0 +1,34 @@
+﻿<Window x:Class="hotel_Managment.settingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:hotel_Managment"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             
+        Title="settingWindow" ShowInTaskbar="False" Height="580" Width="400" WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="NoResize">
+    <Grid>
+        <StackPanel Orientation="Vertical" Background="#2B2D41">
+            <Grid Height="10" Background="#FD3959" MouseDown="Grid_MouseDown"/>
+            <StackPanel Orientation="Horizontal" Height="40" HorizontalAlignment="Left" Margin="10 10 0 0">
+                <materialDesign:PackIcon Kind="Settings" Height="40" Width="40" Margin="5" Foreground="#FD3959" VerticalAlignment="Center">
+                </materialDesign:PackIcon>
+                <TextBlock Text="Account Setting" Foreground="#FD3959" FontSize="25"></TextBlock>
+            </StackPanel>
+            <Grid Height="50">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" >
+                    <Button  Uid="5" Width="135" Content="Create Account" Click="Button_Click" Margin="0 20 0 0"></Button>
+                    <Button  Uid="6" Width="135" Content="Update Account" Margin="20 20 0 0" Click="Button_Click"  ></Button>
+                </StackPanel>
+            </Grid>
+            <Button Uid="7" Width="157" Content="Delete this account" Margin="0 20 0 10" Click="Button_Click" ></Button>
+            <Grid x:Name="settingMainGrid" Height="325">
+            </Grid>
+            <Grid VerticalAlignment="Bottom" Height="55">
+                <Button Width="100" Content="Close" HorizontalAlignment="Right" Margin="0 0 10 0" Background="#00b894" BorderBrush="#00b894" Name="settingCloseBtn" Click="settingCloseBtn_Click">
+                </Button>
+            </Grid>
+        </StackPanel>
+    </Grid>
+</Window>

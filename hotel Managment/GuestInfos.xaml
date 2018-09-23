@@ -1,0 +1,48 @@
+﻿<Window x:Class="hotel_Managment.GuestInfos"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:hotel_Managment"
+        mc:Ignorable="d"
+         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="GuestInfos" Background="#dcdde1" Height="650" Width="500" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" ShowInTaskbar="False" Topmost="True">
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <Grid VerticalAlignment="Top" Height="10" Background="#FD3959"></Grid>
+            <TextBlock Margin="0 50 0 40" Text="Guest Information" FontSize="30" HorizontalAlignment="Center" FontFamily="Estrangelo Edessa"></TextBlock>
+            <StackPanel Orientation="Horizontal" Margin="0 20 0 20">
+                <TextBlock Margin="10 0 10 0" Text="First Name" FontFamily="Estrangelo Edessa" FontSize="15"></TextBlock>
+                <TextBlock Name="firstNameInfo" Margin="10 0 10 0" Width="90"></TextBlock>
+                <TextBlock Margin="10 0 10 0" Text="Family Name" FontFamily="Estrangelo Edessa" FontSize="15"></TextBlock>
+                <TextBlock Name="lastNameInfo" Width="100"></TextBlock>
+                <TextBlock Margin="10 0 10 0" Text="Age" FontFamily="Estrangelo Edessa" FontSize="15"></TextBlock>
+                <TextBlock Name="ageInfo" Margin="8 0 0 0" Width="50"></TextBlock>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0 20 0 20">
+                <TextBlock Margin="10 0 10 0" Text="Phone Number" FontFamily="Estrangelo Edessa" FontSize="15"></TextBlock>
+                <TextBlock Name="phoneInfo" Width="120"></TextBlock>
+                <TextBlock Margin="10 0 10 0" Text="Identity Nmber" FontFamily="Estrangelo Edessa" FontSize="15"></TextBlock>
+                <TextBlock Name="idInfo" Width="120"></TextBlock>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0 20 0 20">
+                <TextBlock Margin="10 0 10 0" Text="Gender" FontFamily="Estrangelo Edessa" FontSize="15"></TextBlock>
+                <TextBlock Name="genderInfo" Width="80"></TextBlock>
+                <TextBlock Margin="10 0 10 0" Text="Occupied Room" FontFamily="Estrangelo Edessa" FontSize="15"></TextBlock>
+                <TextBlock Name="roomInfo" Width="100"></TextBlock>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0 20 0 20">
+                <TextBlock Margin="10 0 10 0" Text="Address" FontFamily="Estrangelo Edessa" FontSize="15"></TextBlock>
+                <TextBlock Name="addressInfo" Width="420"></TextBlock>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0 20 0 20">
+                <TextBlock Margin="10 0 10 0" Text="Check-In Date" FontFamily="Estrangelo Edessa" FontSize="15"></TextBlock>
+                <TextBlock Name="checkInInfo" Width="64"></TextBlock>
+                <TextBlock Margin="10 0 10 0" Text="Check-Out Date" FontFamily="Estrangelo Edessa" FontSize="15"></TextBlock>
+                <TextBlock Name="checkOutInfo" Width="64"></TextBlock>
+            </StackPanel>
+            <Separator Width="250" Margin="0 20 0 0"></Separator>
+        </StackPanel>
+        <Button Name="btnDoneGuestInfo" Margin="0 0 20 20" Click="btnDoneGuestInfo_Click" Content="Done" Width="120" VerticalAlignment="Bottom" HorizontalAlignment="Right"></Button>
+    </Grid>
+</Window>

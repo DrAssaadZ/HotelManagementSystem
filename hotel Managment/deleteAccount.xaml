@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="hotel_Managment.deleteAccount"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:hotel_Managment"
+             mc:Ignorable="d" 
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             d:DesignHeight="325" d:DesignWidth="400">
+    <Grid>
+        <StackPanel>
+            <TextBlock xml:space="preserve" Foreground="#FD3959" FontSize="25"> 
+       You are going to DELETE this 
+           account !! Please Enter 
+                 your Password</TextBlock>
+            <PasswordBox Name="delAccountPasswordBox" Background="White" Width="200" Height="30" Margin="0,20,0,30" ></PasswordBox>
+            <Button Name="BtnDeleteAccount" Click="BtnDeleteAccount_Click" Content="DELETE!!" Width="120"></Button>
+        </StackPanel> 
+    </Grid>
+</UserControl>

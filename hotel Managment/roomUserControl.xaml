@@ -1,0 +1,24 @@
+﻿<UserControl x:Class="hotel_Managment.roomUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:hotel_Managment"
+             mc:Ignorable="d" 
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             d:DesignHeight="600" d:DesignWidth="896.5">
+    <Grid Width="886" Height="590">
+        <StackPanel Orientation="Vertical">
+            <materialDesign:TransitioningContent x:Name="transitioningTitleRooms" OpeningEffect="{materialDesign:TransitionEffect SlideInFromLeft, Duration=0:0:0.4}">
+                <Grid Height="80">
+                    <TextBlock Text="ROOMS" Foreground="#FD3959" FontSize="40" HorizontalAlignment="Left" FontFamily="Estrangelo Edessa" Margin="20 20 0 0"></TextBlock>
+                </Grid>
+            </materialDesign:TransitioningContent>
+            <materialDesign:TransitioningContent x:Name="transitioningMainGridRooms" OpeningEffect="{materialDesign:TransitionEffect SlideInFromLeft, Duration=0:0:0.8}">
+                <Grid Height="450">
+                <DataGrid IsReadOnly="True" Background="White" Width="720" Height="400" AutoGenerateColumns="True" Name="roomsDataGrid" ItemsSource="{Binding}"></DataGrid>
+            </Grid>
+            </materialDesign:TransitioningContent>
+        </StackPanel>
+    </Grid>
+</UserControl>

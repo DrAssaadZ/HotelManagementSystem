@@ -1,0 +1,17 @@
+﻿<Window x:Class="hotel_Managment.SplashScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:hotel_Managment"
+        mc:Ignorable="d"
+        Title="SplashScreen" Height="280" Width="500" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" ShowInTaskbar="False" WindowStyle="None">
+    <Grid Background="#FF2B2D41">
+        <StackPanel Orientation="Vertical">
+            <Image Source="./resources/logo.png" Height="70" VerticalAlignment="Top" Margin="0 20 0 0"></Image>
+            <TextBlock Margin="0 7 0 0" HorizontalAlignment="Center" Text="The Lotus Temple" FontSize="22" Foreground="#FFFD3959" FontFamily="Estrangelo Edessa"/>
+            <ProgressBar  Foreground="#FFFD3959" Height="10" Width="300" Name="threadProgressBar" Margin="0 50 0 10"></ProgressBar>
+            <TextBlock Name="progress" Margin="0 10 0 0" Foreground="White" HorizontalAlignment="Center"></TextBlock>
+        </StackPanel>
+    </Grid>
+</Window>

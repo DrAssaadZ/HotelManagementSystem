@@ -1,0 +1,70 @@
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Release\hotel Managment.exe.config
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Release\hotel Managment.exe
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Release\hotel Managment.pdb
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Release\EntityFramework.dll
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Release\EntityFramework.SqlServerCompact.dll
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Release\MaterialDesignColors.dll
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Release\EntityFramework.xml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Release\EntityFramework.SqlServerCompact.xml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\hotel Managment.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\addGuestUserControl.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\archiveInfo.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\archiveUserControl.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\CheckOutConfirmationBox.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\CheckOutConfirmationBox2.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\checkOutsUserControl.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\createAccount.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\deleteAccount.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\DeleteConfirmationBox.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\GuestInfos.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\guestListUserControl.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\guestsUserControl.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\informationBox.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\InformationWindow.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\LoggingWindow.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\MainWindow.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\myUserControl.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\roomUserControl.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\searchUserControl.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\settingWindow.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\SplashScreen.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\updataAccount.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\App.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\hotel Managment_MarkupCompile.cache
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\hotel Managment_MarkupCompile.lref
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\App.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\addGuestUserControl.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\archiveInfo.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\archiveUserControl.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\CheckOutConfirmationBox.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\CheckOutConfirmationBox2.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\checkOutsUserControl.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\createAccount.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\deleteAccount.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\DeleteConfirmationBox.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\GuestInfos.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\guestListUserControl.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\guestsUserControl.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\informationBox.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\InformationWindow.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\LoggingWindow.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\MainWindow.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\myUserControl.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\roomUserControl.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\searchUserControl.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\settingWindow.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\SplashScreen.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\updataAccount.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\hotel Managment.g.resources
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\hotel_Managment.Properties.Resources.resources
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\hotel Managment.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\hotel Managment.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\hotel Managment.csproj.CopyComplete
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\hotel Managment.exe
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Release\hotel Managment.pdb

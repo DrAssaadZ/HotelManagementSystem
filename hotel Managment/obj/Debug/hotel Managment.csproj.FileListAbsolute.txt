@@ -1,0 +1,70 @@
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Debug\hotel Managment.exe.config
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Debug\hotel Managment.exe
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Debug\hotel Managment.pdb
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\hotel Managment.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\hotel Managment_MarkupCompile.cache
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\hotel Managment_MarkupCompile.lref
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\MainWindow.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\hotel Managment.g.resources
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\hotel_Managment.Properties.Resources.resources
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\hotel Managment.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\hotel Managment.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\hotel Managment.exe
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\hotel Managment.pdb
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Debug\MaterialDesignColors.dll
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\App.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\hotel Managment.csproj.CopyComplete
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\myUserControl.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\myUserControl.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\guestsUserControl.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\guestsUserControl.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\roomUserControl.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\roomUserControl.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\checkOutsUserControl.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\checkOutsUserControl.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\searchUserControl.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\searchUserControl.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\settingWindow.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\settingWindow.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\createAccount.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\createAccount.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\updataAccount.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\updataAccount.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\deleteAccount.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\deleteAccount.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\addGuestUserControl.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\addGuestUserControl.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\LoggingWindow.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\LoggingWindow.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\InformationWindow.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\InformationWindow.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\guestListUserControl.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\guestListUserControl.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\GuestInfos.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\GuestInfos.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\archiveUserControl.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\archiveUserControl.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\archiveInfo.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\archiveInfo.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\SplashScreen.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\SplashScreen.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\DeleteConfirmationBox.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\DeleteConfirmationBox.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\CheckOutConfirmationBox.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\CheckOutConfirmationBox.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\CheckOutConfirmationBox2.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\CheckOutConfirmationBox2.baml
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\informationBox.g.cs
+C:\Users\PC\Desktop\Project v0\hotel Managment\hotel Managment\obj\Debug\informationBox.baml

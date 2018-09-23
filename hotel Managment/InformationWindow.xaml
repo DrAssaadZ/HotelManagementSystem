@@ -1,0 +1,18 @@
+﻿<Window x:Class="hotel_Managment.InformationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:hotel_Managment"
+        mc:Ignorable="d"
+        Title="InformationWindow" Height="250" Width="350" ShowInTaskbar="False" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" WindowStyle="None">
+    <Grid Background="#2B2D41">
+        <Grid Height="10" VerticalAlignment="Top" Background="#FFFD3959"/>
+        <TextBlock xml:space="preserve" Foreground="#FD3959" FontSize="25"> 
+  Developed by :
+  Oussama Zoubia
+  Assaad Oussama Zeghina
+  2018</TextBlock>
+        <Button Content="OK" Name="InfoOkBtn" VerticalAlignment="Bottom" Background="Transparent" Click="InfoOkBtn_Click" BorderBrush="#FD3959"/>
+    </Grid>
+</Window>

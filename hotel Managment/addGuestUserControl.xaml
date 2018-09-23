@@ -1,0 +1,53 @@
+﻿<UserControl x:Class="hotel_Managment.addGuestUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:hotel_Managment"
+             mc:Ignorable="d" 
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             d:DesignHeight="430" d:DesignWidth="896.5">
+    <materialDesign:TransitioningContent x:Name="transitioningContentSlide" OpeningEffect="{materialDesign:TransitionEffect SlideInFromBottom, Duration=0:0:0.4}">
+        <Grid>
+        <StackPanel Orientation="Vertical" >
+            <Grid Height="30">
+                <TextBlock Text="Add New Guest" FontSize="25" Foreground="#2B2D41" FontFamily="Estrangelo Edessa" Margin="20 0 0 0"></TextBlock>
+            </Grid>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="First Name" FontSize="18" FontFamily="Estrangelo Edessa" Margin="10 20 20 10"></TextBlock>
+                <TextBox Name="firstNameTextBox" Width="100" Height="30" FontSize="15" Background="White" Margin="0 10 40 10 "></TextBox>
+                <TextBlock Text="Last Name" FontSize="18" FontFamily="Estrangelo Edessa" Margin="10 20 20 10"></TextBlock>
+                <TextBox Name="lastNameTextBox" Width="100" Height="30" FontSize="15" Background="White" Margin="0 10 40 10 "></TextBox>
+                <TextBlock Text="Gender" FontSize="18" FontFamily="Estrangelo Edessa" Margin="10 20 20 10"></TextBlock>
+                <ComboBox Name="genderComboBox" Width="60" Margin="0 0 40 0">
+                    <ComboBoxItem IsSelected="True">Male</ComboBoxItem>
+                    <ComboBoxItem>Female</ComboBoxItem>
+                </ComboBox>
+                <TextBlock Text="Age" FontSize="18" FontFamily="Estrangelo Edessa" Margin="10 20 20 10"></TextBlock>
+                <TextBox Name="ageTextBox" Width="100" Height="30" FontSize="15" Background="White" Margin="0 10 40 10 "></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Identity Number" FontSize="18" FontFamily="Estrangelo Edessa" Margin="10 20 20 10"></TextBlock>
+                <TextBox Name="identityTextBox" Width="100" Height="30" FontSize="15" Background="White" Margin="0 10 40 10 "></TextBox>
+                <TextBlock Text="Phone Number" FontSize="18" FontFamily="Estrangelo Edessa" Margin="10 20 20 10"></TextBlock>
+                <TextBox Name="phoneTextBox" Width="100" Height="30" FontSize="15" Background="White" Margin="0 10 40 10 "></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Address" FontSize="18" FontFamily="Estrangelo Edessa" Margin="10 20 20 10"></TextBlock>
+                <TextBox Name="addressTextBox" Width="600" Height="30" FontSize="15" Background="White" Margin="0 10 40 10 "></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Select Room" FontSize="18" FontFamily="Estrangelo Edessa" Margin="10 20 20 10"></TextBlock>
+                <ComboBox Name="roomsComboBox" Width="100" Margin="0 0 40 0">
+                    
+                </ComboBox>
+                <TextBlock Text="Check-out Date" FontSize="18" FontFamily="Estrangelo Edessa" Margin="10 20 20 10"></TextBlock>
+                <DatePicker Name="checkOutDatePicker" Width="100" Height="30"/>
+            </StackPanel>
+                <Grid>
+                    <Button Name="btnAddGuest" Click="btnAddGuest_Click" Content="Add Guest" Width="130" BorderBrush="#00b894" Background="#00b894" Margin="0 70 0 0" ></Button>
+                </Grid>
+            </StackPanel>
+    </Grid>
+        </materialDesign:TransitioningContent>
+</UserControl>

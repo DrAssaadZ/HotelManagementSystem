@@ -1,0 +1,48 @@
+﻿<UserControl x:Class="hotel_Managment.searchUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:hotel_Managment"
+             mc:Ignorable="d" 
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             d:DesignHeight="600" d:DesignWidth="896.5">
+    <Grid Width="886" Height="590">
+        <StackPanel Orientation="Vertical">
+            <materialDesign:TransitioningContent x:Name="transitioningTitlesSearch" OpeningEffect="{materialDesign:TransitionEffect SlideInFromLeft, Duration=0:0:0.4}">
+                <Grid Height="80">
+                    <TextBlock Text="SEARCH" Foreground="#FD3959" FontSize="40" HorizontalAlignment="Left" FontFamily="Estrangelo Edessa" Margin="20 20 0 0"></TextBlock>
+                </Grid>
+            </materialDesign:TransitioningContent>
+            <materialDesign:TransitioningContent x:Name="transitioningSearchBar" OpeningEffect="{materialDesign:TransitionEffect SlideInFromLeft, Duration=0:0:0.8}">
+            <Grid Height="90">
+                <StackPanel Orientation="Vertical">
+                    <StackPanel Orientation="Horizontal" Height="45" VerticalAlignment="Top" >
+                        <TextBlock Text="Search By :" FontSize="29" FontFamily="Estrangelo Edessa" Margin="15,5,0,0"></TextBlock>
+                        <RadioButton Name="nameRadio" Margin="15,8,15,0"></RadioButton>
+                        <TextBlock Text="Name" FontFamily="Estrangelo Edessa" FontSize="25" Margin="0,5,15,0"></TextBlock>
+                        <RadioButton Name="lnameRadio" Margin="15,8,15,0"></RadioButton>
+                        <TextBlock Text="Last Name" FontFamily="Estrangelo Edessa" FontSize="25" Margin="0,5,15,0"></TextBlock>
+                        <RadioButton Name="phoneRadio" Margin="15,8,15,0"></RadioButton>
+                        <TextBlock Text="Phone Number" FontFamily="Estrangelo Edessa" FontSize="25" Margin="0,5,15,0"></TextBlock>
+                        <RadioButton Name="idRadio" Margin="15,8,15,0"></RadioButton>
+                        <TextBlock Text="ID" FontFamily="Estrangelo Edessa" FontSize="25" Margin="0,5,0,0"></TextBlock>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBox Name="searchBar" materialDesign:HintAssist.Hint="Search" Background="White" Height="40" FontSize="20" Width="600" Foreground="#2B2D41" Margin="90,0,0,0">
+                        </TextBox>
+                        <Button Name="btnSearch" Click="btnSearch_Click" Width="44" Height="Auto" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#00b894" Padding="0" Margin="0">
+                            <materialDesign:PackIcon Kind="AccountSearch" Height="45" Width="45" RenderTransformOrigin="10.539,-6.01" Margin="10,0,0,0"></materialDesign:PackIcon>
+                        </Button>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+            </materialDesign:TransitioningContent>
+            <Grid Height="380" >
+                <materialDesign:TransitioningContent x:Name="transitioningSearchGrid" OpeningEffect="{materialDesign:TransitionEffect SlideInFromBottom, Duration=0:0:0.8}">
+                    <DataGrid Margin="20" IsReadOnly="True" Background="White" Width="750" Height="340" AutoGenerateColumns="True" Name="searchDataGrid" ItemsSource="{Binding}"></DataGrid>
+                </materialDesign:TransitioningContent>
+            </Grid>
+        </StackPanel>
+    </Grid>
+</UserControl>
