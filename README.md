@@ -1,2 +1,2 @@
 # HotelManagementSystem
-this project were my license's final project, along side with my colleague Oussama Zoubia 2018
+this project was my license's final project, along side with my colleague Oussama Zoubia 2018
